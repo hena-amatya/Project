@@ -1,0 +1,38 @@
+ul{
+	list-style-type:none;
+	padding:0;
+	display:flex;
+	text color:white;
+
+}
+li{
+	margin:10px;
+	padding-inline:27px;
+	justify-content:space-between;
+	text color:white;
+	word-spacing:5px;
+}
+nav{
+display:inline-block;
+border-radius:50px;
+padding:0px;
+display:flex;
+font-size:25px;
+float:center;
+justify-content:center;
+align-items:center;
+border:20px;
+width:880px;
+}
+a{
+	text-decoration: none;
+	padding-inline: 5px;
+	color:whitesmoke;
+    word-spacing:5px;
+}
+a:hover{
+background:white;
+color:hotpink;
+padding:5px;
+border-radius:10px;
+}
